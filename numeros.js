@@ -1,7 +1,6 @@
 window.NUMEROS = [
   "13435836115",
-  "15482574256",
-  "18257884275"
+  "15482574256"
 ];
 
 window.NumbersToDisconnect = [
